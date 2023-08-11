@@ -1,0 +1,27 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/micro-albuminuria-testing-output---primary.py
+inputModule3:
+  class: File
+  path: python/micro-albuminuria-testing-level---primary.py
+inputModule4:
+  class: File
+  path: python/micro-albuminuria-testing-protein---primary.py
+inputModule5:
+  class: File
+  path: python/microalbumin---primary.py
+inputModule6:
+  class: File
+  path: python/micro-albuminuria-testing-excretion---primary.py
+inputModule7:
+  class: File
+  path: python/micro-albuminuria-testing-ratio---primary.py
+inputModule8:
+  class: File
+  path: python/positive-micro-albuminuria-testing---primary.py
+inputModule9:
+  class: File
+  path: python/output-cases.py
